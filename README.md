@@ -8,8 +8,8 @@ I analyzed their features and made a model to classify them whether someone has 
 
 ## Dataset      
 
-Number of columns : 9 (one of columns is a Output variable(1: positive, 0: negative))        
-Number of rows : 768         
++ Number of columns : 9 (one of columns is a Output variable(1: positive, 0: negative))        
++ Number of rows : 768         
 
 ![피마기술통계량](https://user-images.githubusercontent.com/62729363/114139578-302fca00-994a-11eb-8052-3f907fd72f74.png)       
 
@@ -32,6 +32,6 @@ I found some helpful features for classifying them so I added 4 composite variab
 
 ## Pipelining          
 
-Apart from increasing the performance of the model, we have established a preprocessing and learning process pipeline so that when new data other than that dataset is given, it can be inserted directly into the model.          
++ Apart from increasing the performance of the model, we have established a preprocessing and learning process pipeline so that when new data other than that dataset is given, it can be inserted directly into the model.          
 
 ![image](https://user-images.githubusercontent.com/62729363/114294086-cc86d780-9ad6-11eb-8d03-8daa71a39b8c.png)
