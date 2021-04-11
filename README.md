@@ -28,9 +28,10 @@ I found some helpful features for classifying them so I added 4 composite variab
 ## Training and validation        
 
 + Training model : Random Forest       
-+ Training accuracy :          
-+ Testing accuracy :          
+![image](https://user-images.githubusercontent.com/62729363/114294063-8af62c80-9ad6-11eb-8fbe-e15d53cae435.png)            
 
 ## Pipelining          
 
 Apart from increasing the performance of the model, we have established a preprocessing and learning process pipeline so that when new data other than that dataset is given, it can be inserted directly into the model.          
+
+![image](https://user-images.githubusercontent.com/62729363/114294086-cc86d780-9ad6-11eb-8d03-8daa71a39b8c.png)
